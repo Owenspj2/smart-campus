@@ -5,7 +5,9 @@ import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 </script>
 
 <template>
-  
+  <div>
+    abcd
+  </div>
   <div>
      <!-- 路由视图出口的地方 -->
      <el-config-provider :locale="zhCn">
